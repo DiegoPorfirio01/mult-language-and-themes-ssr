@@ -1,0 +1,20 @@
+{
+  "Home": "ínicio",
+  "About": "Sobre",
+  "Support": "Suporte",
+  "Other": "Outro",
+  "Theme": "Tema",
+  "An": "Um",
+  "Booster": "Impulsionador",
+  "to_Your_NextJS_Apps": "para Suas Aplicações NextJS",
+  "An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "Um boilerplate acessível, eficiente e versátil para construir aplicações SSR.",
+  "Use_Template": "Usar Modelo",
+  "Learn_More": "Saiba Mais!",
+  "Approachable": "Acessível",
+  "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Adicione componentes sem enviar JavaScript adicional para o lado do cliente. Construído com os recursos mais recentes do React.",
+  "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Otimizações automáticas de Imagem, Fonte e Script para melhorar a UX e os Core Web Vitals.",
+  "Versatile": "Versátil",
+  "A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app": "Um modelo rico e incrivelmente adaptável que se ajusta entre um pequeno site de exibição e uma aplicação de tamanho completo.",
+  "This_is_a_simple_about_page_just_to_show_how_you_can_use_the_internationalization_in_different_pages": "Esta é uma página simples de sobre apenas para mostrar como você pode usar a internacionalização em diferentes páginas.",
+  "Performant": "Eficiente"
+}
