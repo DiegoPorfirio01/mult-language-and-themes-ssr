@@ -10,7 +10,7 @@ Este é um boilerplate acessível, eficiente e versátil para construir aplicaç
 - **Shadui** 🎨
 - **next-intl** 🌍
 - **next-themes** 🎨
-- 
+  
 ## Funcionalidades
 
 - **Internacionalização (i18n)**: Suporte para múltiplos idiomas
