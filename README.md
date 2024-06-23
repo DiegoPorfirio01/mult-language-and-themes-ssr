@@ -6,31 +6,31 @@ Este é um boilerplate acessível, eficiente e versátil para construir aplicaç
 
 ## Tecnologias Utilizadas
 
-- **Next.js 14**
-- **Shadui**
-- **next-intl**
-- **next-themes**
-
+- **Next.js 14** 🌐
+- **Shadui** 🎨
+- **next-intl** 🌍
+- **next-themes** 🎨
+- 
 ## Funcionalidades
 
 - **Internacionalização (i18n)**: Suporte para múltiplos idiomas
-  - **pt-br**: Português Brasil
-  - **es**: Espanhol
-  - **en**: Inglês
-- **Temas Personalizados**: Diferentes temas visuais para a aplicação
+  - **pt-br**: Português Brasil 🇧🇷
+  - **es**: Espanhol 🇪🇸
+  - **en**: Inglês 🇺🇸
+- **Temas Personalizados**: Diferentes temas visuais para a aplicação 🎨
 
 ## Temas Disponíveis
 
 1. **Padrão**
-   - **Claro**
-   - **Escuro**
-2. **Sunset**
-3. **Instagram**
-4. **Facebook**
-5. **Discord**
-6. **Netflix**
-7. **Reddit**
-8. **Twilight**
+   - **Claro** ☀️
+   - **Escuro** 🌙
+2. **Sunset** 🌅
+3. **Instagram** 📸
+4. **Facebook** 📘
+5. **Discord** 🎮
+6. **Netflix** 🎬
+7. **Reddit** 🌐
+8. **Twilight** 🌌
 
 ## Como Executar
 
